@@ -78,76 +78,39 @@ experiences:
           leavers ,benefits and equality and diversity,
           - To Support the implementation of HR systems or databases;to enter data and maintain these accordingly .
           
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Foods & Operations Section-Coordinator
+      time: September 2004 - October 2020
+      company: Marks & Spencer PLC
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+       
+          - Coordinate people,resouces and activity to deliver the sales plan.
+          - Ensure the store trades safely and legally ,while maintaining excellent service and presentation standards .
+          - Plan & Coordinate the delivery of corporate and seasonal updates and events in line with the M&S brand ,
+          - Drive the actions required to meet targets for stock loss,stock accuracy and waste .
+   
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python 
+        level: 40%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+      - name: Microsoft Office :Word,Excel ,Teams and Office 365 
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: Emailing ,Touch Typing and Word Processing 
+        level: 98%
+
+      - name: Presentation Skills 
+        level: 93%
+
+      - name: Google Drive ,Sheets ,Docs 
+        level: 85%
+
+      - name: Conference Calling Software ,Zoom ,Skype ,Slack .
         level: 60%
 
 footer: >
